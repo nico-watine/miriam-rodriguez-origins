@@ -1,0 +1,32 @@
+﻿#menuh {
+        font: 80% verdana, Arial, Helvetica, sans-serif;
+        margin-top: 10px;
+}
+
+#menuh ul, li {
+        list-style-type: none;
+}
+
+#menuh ul {
+        margin: 5;
+        padding: 5;
+}
+
+#menuh li {
+        float: right;
+}
+
+#menuh a {
+        text-decoration: none;
+        color: #baa500;
+        text-align: center;
+}
+
+
+#menuh a#primero {
+        border-left: 0px solid #ACCFE8;
+}
+
+#menuh a:hover {
+        background: #FFFFFF;
+}
